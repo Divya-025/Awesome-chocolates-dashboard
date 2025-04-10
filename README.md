@@ -21,6 +21,13 @@ This project demonstrates a comprehensive Power BI report designed to help stake
 - Data Modeling & Transformation (Power Query)
 - Interactive Visualizations
 
+  ##  Sample screenshot
+
+  ![image](https://github.com/user-attachments/assets/3db5027e-b915-44fa-b66f-12484b9bbbea)
+
+
+  
+
 ##  Key Features
 
 - Slicers and filters for dynamic exploration
